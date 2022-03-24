@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.30b00022.chunk.css",
-    "main.js": "/static/js/main.745f974f.chunk.js",
-    "main.js.map": "/static/js/main.745f974f.chunk.js.map",
+    "main.js": "/static/js/main.7a19cb13.chunk.js",
+    "main.js.map": "/static/js/main.7a19cb13.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e747401b.js",
     "runtime-main.js.map": "/static/js/runtime-main.e747401b.js.map",
     "static/css/2.a5882a3d.chunk.css": "/static/css/2.a5882a3d.chunk.css",
-    "static/js/2.8351e482.chunk.js": "/static/js/2.8351e482.chunk.js",
-    "static/js/2.8351e482.chunk.js.map": "/static/js/2.8351e482.chunk.js.map",
+    "static/js/2.5955382e.chunk.js": "/static/js/2.5955382e.chunk.js",
+    "static/js/2.5955382e.chunk.js.map": "/static/js/2.5955382e.chunk.js.map",
     "e7e915313973ba1d49f9bb2a1998626e.js": "/e7e915313973ba1d49f9bb2a1998626e.js",
     "index.html": "/index.html",
-    "precache-manifest.72fd5fff727daf5029cfe3d4e9459615.js": "/precache-manifest.72fd5fff727daf5029cfe3d4e9459615.js",
+    "precache-manifest.032baaa530f38824d42526c7af2e1aa0.js": "/precache-manifest.032baaa530f38824d42526c7af2e1aa0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a5882a3d.chunk.css.map": "/static/css/2.a5882a3d.chunk.css.map",
     "static/css/main.30b00022.chunk.css.map": "/static/css/main.30b00022.chunk.css.map",
-    "static/js/2.8351e482.chunk.js.LICENSE.txt": "/static/js/2.8351e482.chunk.js.LICENSE.txt",
+    "static/js/2.5955382e.chunk.js.LICENSE.txt": "/static/js/2.5955382e.chunk.js.LICENSE.txt",
     "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot",
     "static/media/sample.pdf": "/static/media/sample.505ccd88.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.e747401b.js",
     "static/css/2.a5882a3d.chunk.css",
-    "static/js/2.8351e482.chunk.js",
+    "static/js/2.5955382e.chunk.js",
     "static/css/main.30b00022.chunk.css",
-    "static/js/main.745f974f.chunk.js"
+    "static/js/main.7a19cb13.chunk.js"
   ]
 }
