@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap);.lineUp{animation:anim-lineUp 2s ease-out infinite}@keyframes anim-lineUp{0%{opacity:0;transform:translateY(80%)}20%{opacity:0}50%{opacity:1;transform:translateY(0)}to{opacity:1;transform:translateY(0)}}.flipY{animation-name:spin,depth;animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:6s}*,body,html{font-family:"Open Sans",sans-serif!important}
+/*# sourceMappingURL=main.510c79e9.chunk.css.map */
