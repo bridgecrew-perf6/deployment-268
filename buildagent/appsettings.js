@@ -1,4 +1,5 @@
 window.appsettings = {
-    appUrl:"185.141.110.253",
-    appPort:"4444"
+    appUrl:"185.141.110.85",
+    appPort:"4444",
+    makecallPrefix:""
 }
